@@ -1,0 +1,5403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <FIELD1>1</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>33599</Deaths>
+    <Population>316299978</Population>
+    <Rate>10.6</Rate>
+  </row>
+  <row>
+    <FIELD1>2</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>22079</Deaths>
+    <Population>197369634</Population>
+    <Rate>11.2</Rate>
+  </row>
+  <row>
+    <FIELD1>3</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>7765</Deaths>
+    <Population>38896382</Population>
+    <Rate>20</Rate>
+  </row>
+  <row>
+    <FIELD1>4</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>3007</Deaths>
+    <Population>54049078</Population>
+    <Rate>5.6</Rate>
+  </row>
+  <row>
+    <FIELD1>5</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>442</Deaths>
+    <Population>16315561</Population>
+    <Rate>2.7</Rate>
+  </row>
+  <row>
+    <FIELD1>6</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>306</Deaths>
+    <Population>9669323</Population>
+    <Rate>3.2</Rate>
+  </row>
+  <row>
+    <FIELD1>7</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>427</Deaths>
+    <Population>61085868</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>8</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>242</Deaths>
+    <Population>31538832</Population>
+    <Rate>0.8</Rate>
+  </row>
+  <row>
+    <FIELD1>9</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>109</Deaths>
+    <Population>8323603</Population>
+    <Rate>1.3</Rate>
+  </row>
+  <row>
+    <FIELD1>10</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>63</Deaths>
+    <Population>14994449</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>11</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>7</Deaths>
+    <Population>2825155</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>12</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>5</Deaths>
+    <Population>3403829</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>13</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>12723</Deaths>
+    <Population>86611149</Population>
+    <Rate>14.7</Rate>
+  </row>
+  <row>
+    <FIELD1>14</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>5244</Deaths>
+    <Population>48773131</Population>
+    <Rate>10.8</Rate>
+  </row>
+  <row>
+    <FIELD1>15</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>5297</Deaths>
+    <Population>11893789</Population>
+    <Rate>44.5</Rate>
+  </row>
+  <row>
+    <FIELD1>16</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1822</Deaths>
+    <Population>17960261</Population>
+    <Rate>10.1</Rate>
+  </row>
+  <row>
+    <FIELD1>17</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>200</Deaths>
+    <Population>4950398</Population>
+    <Rate>4</Rate>
+  </row>
+  <row>
+    <FIELD1>18</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>160</Deaths>
+    <Population>3033571</Population>
+    <Rate>5.3</Rate>
+  </row>
+  <row>
+    <FIELD1>19</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>14874</Deaths>
+    <Population>123935928</Population>
+    <Rate>12</Rate>
+  </row>
+  <row>
+    <FIELD1>20</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>11396</Deaths>
+    <Population>81870182</Population>
+    <Rate>13.9</Rate>
+  </row>
+  <row>
+    <FIELD1>21</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>2164</Deaths>
+    <Population>14848291</Population>
+    <Rate>14.6</Rate>
+  </row>
+  <row>
+    <FIELD1>22</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>988</Deaths>
+    <Population>17777422</Population>
+    <Rate>5.6</Rate>
+  </row>
+  <row>
+    <FIELD1>23</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>203</Deaths>
+    <Population>6797707</Population>
+    <Rate>3</Rate>
+  </row>
+  <row>
+    <FIELD1>24</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>123</Deaths>
+    <Population>2642326</Population>
+    <Rate>4.7</Rate>
+  </row>
+  <row>
+    <FIELD1>25</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>5569</Deaths>
+    <Population>44667034</Population>
+    <Rate>12.5</Rate>
+  </row>
+  <row>
+    <FIELD1>26</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>5192</Deaths>
+    <Population>35187489</Population>
+    <Rate>14.8</Rate>
+  </row>
+  <row>
+    <FIELD1>27</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>194</Deaths>
+    <Population>3830699</Population>
+    <Rate>5.1</Rate>
+  </row>
+  <row>
+    <FIELD1>28</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>133</Deaths>
+    <Population>3316947</Population>
+    <Rate>4</Rate>
+  </row>
+  <row>
+    <FIELD1>29</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>32</Deaths>
+    <Population>1742301</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>30</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>18</Deaths>
+    <Population>589598</Population>
+    <Rate>3.1</Rate>
+  </row>
+  <row>
+    <FIELD1>31</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>6</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>32</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>4</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>33</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>34</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>35</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>36</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>37</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>4816</Deaths>
+    <Population>160668110</Population>
+    <Rate>3</Rate>
+  </row>
+  <row>
+    <FIELD1>38</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>3562</Deaths>
+    <Population>100162288</Population>
+    <Rate>3.6</Rate>
+  </row>
+  <row>
+    <FIELD1>39</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>773</Deaths>
+    <Population>20362385</Population>
+    <Rate>3.8</Rate>
+  </row>
+  <row>
+    <FIELD1>40</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>358</Deaths>
+    <Population>26670924</Population>
+    <Rate>1.3</Rate>
+  </row>
+  <row>
+    <FIELD1>41</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>81</Deaths>
+    <Population>8589119</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>42</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>42</Deaths>
+    <Population>4883395</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>43</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>123</Deaths>
+    <Population>29836679</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>44</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>64</Deaths>
+    <Population>15355910</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>45</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>32</Deaths>
+    <Population>4095428</Population>
+    <Rate>0.8</Rate>
+  </row>
+  <row>
+    <FIELD1>46</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>25</Deaths>
+    <Population>7330024</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>47</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>1393440</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>48</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>1661877</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>49</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>1521</Deaths>
+    <Population>42593280</Population>
+    <Rate>3.6</Rate>
+  </row>
+  <row>
+    <FIELD1>50</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>835</Deaths>
+    <Population>23942099</Population>
+    <Rate>3.5</Rate>
+  </row>
+  <row>
+    <FIELD1>51</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>441</Deaths>
+    <Population>6023846</Population>
+    <Rate>7.3</Rate>
+  </row>
+  <row>
+    <FIELD1>52</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>191</Deaths>
+    <Population>8580577</Population>
+    <Rate>2.2</Rate>
+  </row>
+  <row>
+    <FIELD1>53</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>30</Deaths>
+    <Population>2535358</Population>
+    <Rate>1.2</Rate>
+  </row>
+  <row>
+    <FIELD1>54</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>23</Deaths>
+    <Population>1511400</Population>
+    <Rate>1.5</Rate>
+  </row>
+  <row>
+    <FIELD1>55</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>2565</Deaths>
+    <Population>63125058</Population>
+    <Rate>4.1</Rate>
+  </row>
+  <row>
+    <FIELD1>56</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>2105</Deaths>
+    <Population>41284839</Population>
+    <Rate>5.1</Rate>
+  </row>
+  <row>
+    <FIELD1>57</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>270</Deaths>
+    <Population>7932606</Population>
+    <Rate>3.4</Rate>
+  </row>
+  <row>
+    <FIELD1>58</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>131</Deaths>
+    <Population>8863203</Population>
+    <Rate>1.5</Rate>
+  </row>
+  <row>
+    <FIELD1>59</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>44</Deaths>
+    <Population>3668172</Population>
+    <Rate>1.2</Rate>
+  </row>
+  <row>
+    <FIELD1>60</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>16</Deaths>
+    <Population>1376239</Population>
+    <Rate>1.2</Rate>
+  </row>
+  <row>
+    <FIELD1>61</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>606</Deaths>
+    <Population>25113094</Population>
+    <Rate>2.4</Rate>
+  </row>
+  <row>
+    <FIELD1>62</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>558</Deaths>
+    <Population>19579439</Population>
+    <Rate>2.8</Rate>
+  </row>
+  <row>
+    <FIELD1>63</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>29</Deaths>
+    <Population>2310506</Population>
+    <Rate>1.3</Rate>
+  </row>
+  <row>
+    <FIELD1>64</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>11</Deaths>
+    <Population>1897119</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>65</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>6</Deaths>
+    <Population>992150</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>66</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>2</Deaths>
+    <Population>333879</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>67</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>68</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>69</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>70</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>71</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>72</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>73</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>28783</Deaths>
+    <Population>155631868</Population>
+    <Rate>18.5</Rate>
+  </row>
+  <row>
+    <FIELD1>74</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>18517</Deaths>
+    <Population>97207346</Population>
+    <Rate>19</Rate>
+  </row>
+  <row>
+    <FIELD1>75</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>6993</Deaths>
+    <Population>18533996</Population>
+    <Rate>37.7</Rate>
+  </row>
+  <row>
+    <FIELD1>76</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>2650</Deaths>
+    <Population>27378155</Population>
+    <Rate>9.7</Rate>
+  </row>
+  <row>
+    <FIELD1>77</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>361</Deaths>
+    <Population>7726442</Population>
+    <Rate>4.7</Rate>
+  </row>
+  <row>
+    <FIELD1>78</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>263</Deaths>
+    <Population>4785929</Population>
+    <Rate>5.5</Rate>
+  </row>
+  <row>
+    <FIELD1>79</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>303</Deaths>
+    <Population>31249189</Population>
+    <Rate>1</Rate>
+  </row>
+  <row>
+    <FIELD1>80</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>179</Deaths>
+    <Population>16182922</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>81</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>77</Deaths>
+    <Population>4228176</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>82</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>39</Deaths>
+    <Population>7664425</Population>
+    <Rate>0.5</Rate>
+  </row>
+  <row>
+    <FIELD1>83</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>5</Deaths>
+    <Population>1431715</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>84</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>4</Deaths>
+    <Population>1741952</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>85</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>11202</Deaths>
+    <Population>44017869</Population>
+    <Rate>25.4</Rate>
+  </row>
+  <row>
+    <FIELD1>86</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>4409</Deaths>
+    <Population>24831032</Population>
+    <Rate>17.8</Rate>
+  </row>
+  <row>
+    <FIELD1>87</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>4855</Deaths>
+    <Population>5869943</Population>
+    <Rate>82.7</Rate>
+  </row>
+  <row>
+    <FIELD1>88</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1631</Deaths>
+    <Population>9379683</Population>
+    <Rate>17.4</Rate>
+  </row>
+  <row>
+    <FIELD1>89</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>170</Deaths>
+    <Population>2415040</Population>
+    <Rate>7</Rate>
+  </row>
+  <row>
+    <FIELD1>90</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>136</Deaths>
+    <Population>1522171</Population>
+    <Rate>8.9</Rate>
+  </row>
+  <row>
+    <FIELD1>91</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>12309</Deaths>
+    <Population>60810870</Population>
+    <Rate>20.2</Rate>
+  </row>
+  <row>
+    <FIELD1>92</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>9291</Deaths>
+    <Population>40585343</Population>
+    <Rate>22.9</Rate>
+  </row>
+  <row>
+    <FIELD1>93</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>1894</Deaths>
+    <Population>6915685</Population>
+    <Rate>27.4</Rate>
+  </row>
+  <row>
+    <FIELD1>94</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>858</Deaths>
+    <Population>8914219</Population>
+    <Rate>9.6</Rate>
+  </row>
+  <row>
+    <FIELD1>95</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>159</Deaths>
+    <Population>3129535</Population>
+    <Rate>5.1</Rate>
+  </row>
+  <row>
+    <FIELD1>96</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>107</Deaths>
+    <Population>1266087</Population>
+    <Rate>8.5</Rate>
+  </row>
+  <row>
+    <FIELD1>97</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>4964</Deaths>
+    <Population>19553940</Population>
+    <Rate>25.4</Rate>
+  </row>
+  <row>
+    <FIELD1>98</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>4634</Deaths>
+    <Population>15608050</Population>
+    <Rate>29.7</Rate>
+  </row>
+  <row>
+    <FIELD1>99</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>165</Deaths>
+    <Population>1520192</Population>
+    <Rate>10.9</Rate>
+  </row>
+  <row>
+    <FIELD1>100</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>122</Deaths>
+    <Population>1419828</Population>
+    <Rate>8.6</Rate>
+  </row>
+  <row>
+    <FIELD1>101</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>26</Deaths>
+    <Population>750151</Population>
+    <Rate>3.5</Rate>
+  </row>
+  <row>
+    <FIELD1>102</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>16</Deaths>
+    <Population>255719</Population>
+    <Rate>6.3</Rate>
+  </row>
+  <row>
+    <FIELD1>103</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>5</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>104</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>4</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>105</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>106</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>107</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>108</FIELD1>
+    <Intent>None selected</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>109</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>21058</Deaths>
+    <Population>316299978</Population>
+    <Rate>6.7</Rate>
+  </row>
+  <row>
+    <FIELD1>110</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>18457</Deaths>
+    <Population>197369634</Population>
+    <Rate>9.4</Rate>
+  </row>
+  <row>
+    <FIELD1>111</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>1111</Deaths>
+    <Population>38896382</Population>
+    <Rate>2.9</Rate>
+  </row>
+  <row>
+    <FIELD1>112</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1057</Deaths>
+    <Population>54049078</Population>
+    <Rate>2</Rate>
+  </row>
+  <row>
+    <FIELD1>113</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>248</Deaths>
+    <Population>16315561</Population>
+    <Rate>1.5</Rate>
+  </row>
+  <row>
+    <FIELD1>114</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>185</Deaths>
+    <Population>9669323</Population>
+    <Rate>1.9</Rate>
+  </row>
+  <row>
+    <FIELD1>115</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>139</Deaths>
+    <Population>61085868</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>116</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>117</Deaths>
+    <Population>31538832</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>117</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>7</Deaths>
+    <Population>8323603</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>118</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>12</Deaths>
+    <Population>14994449</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>119</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>3</Deaths>
+    <Population>2825155</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>120</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>3403829</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>121</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>5061</Deaths>
+    <Population>86611149</Population>
+    <Rate>5.8</Rate>
+  </row>
+  <row>
+    <FIELD1>122</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>3878</Deaths>
+    <Population>48773131</Population>
+    <Rate>8</Rate>
+  </row>
+  <row>
+    <FIELD1>123</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>510</Deaths>
+    <Population>11893789</Population>
+    <Rate>4.3</Rate>
+  </row>
+  <row>
+    <FIELD1>124</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>479</Deaths>
+    <Population>17960261</Population>
+    <Rate>2.7</Rate>
+  </row>
+  <row>
+    <FIELD1>125</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>106</Deaths>
+    <Population>4950398</Population>
+    <Rate>2.1</Rate>
+  </row>
+  <row>
+    <FIELD1>126</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>88</Deaths>
+    <Population>3033571</Population>
+    <Rate>2.9</Rate>
+  </row>
+  <row>
+    <FIELD1>127</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>10764</Deaths>
+    <Population>123935928</Population>
+    <Rate>8.7</Rate>
+  </row>
+  <row>
+    <FIELD1>128</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>9634</Deaths>
+    <Population>81870182</Population>
+    <Rate>11.8</Rate>
+  </row>
+  <row>
+    <FIELD1>129</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>476</Deaths>
+    <Population>14848291</Population>
+    <Rate>3.2</Rate>
+  </row>
+  <row>
+    <FIELD1>130</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>456</Deaths>
+    <Population>17777422</Population>
+    <Rate>2.6</Rate>
+  </row>
+  <row>
+    <FIELD1>131</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>115</Deaths>
+    <Population>6797707</Population>
+    <Rate>1.7</Rate>
+  </row>
+  <row>
+    <FIELD1>132</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>82</Deaths>
+    <Population>2642326</Population>
+    <Rate>3.1</Rate>
+  </row>
+  <row>
+    <FIELD1>133</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>5092</Deaths>
+    <Population>44667034</Population>
+    <Rate>11.4</Rate>
+  </row>
+  <row>
+    <FIELD1>134</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>4827</Deaths>
+    <Population>35187489</Population>
+    <Rate>13.7</Rate>
+  </row>
+  <row>
+    <FIELD1>135</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>117</Deaths>
+    <Population>3830699</Population>
+    <Rate>3.1</Rate>
+  </row>
+  <row>
+    <FIELD1>136</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>109</Deaths>
+    <Population>3316947</Population>
+    <Rate>3.3</Rate>
+  </row>
+  <row>
+    <FIELD1>137</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>24</Deaths>
+    <Population>1742301</Population>
+    <Rate>1.4</Rate>
+  </row>
+  <row>
+    <FIELD1>138</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>15</Deaths>
+    <Population>589598</Population>
+    <Rate>2.5</Rate>
+  </row>
+  <row>
+    <FIELD1>139</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>2</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>140</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>2</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>141</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>142</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>143</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>144</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>145</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>2896</Deaths>
+    <Population>160668110</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>146</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>2606</Deaths>
+    <Population>100162288</Population>
+    <Rate>2.6</Rate>
+  </row>
+  <row>
+    <FIELD1>147</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>121</Deaths>
+    <Population>20362385</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>148</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>116</Deaths>
+    <Population>26670924</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>149</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>33</Deaths>
+    <Population>8589119</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>150</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>21</Deaths>
+    <Population>4883395</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>151</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>25</Deaths>
+    <Population>29836679</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>152</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>19</Deaths>
+    <Population>15355910</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>153</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>1</Deaths>
+    <Population>4095428</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>154</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>4</Deaths>
+    <Population>7330024</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>155</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>1393440</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>156</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1661877</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>157</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>662</Deaths>
+    <Population>42593280</Population>
+    <Rate>1.6</Rate>
+  </row>
+  <row>
+    <FIELD1>158</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>539</Deaths>
+    <Population>23942099</Population>
+    <Rate>2.3</Rate>
+  </row>
+  <row>
+    <FIELD1>159</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>44</Deaths>
+    <Population>6023846</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>160</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>55</Deaths>
+    <Population>8580577</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>161</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>14</Deaths>
+    <Population>2535358</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>162</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>10</Deaths>
+    <Population>1511400</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>163</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>1773</Deaths>
+    <Population>63125058</Population>
+    <Rate>2.8</Rate>
+  </row>
+  <row>
+    <FIELD1>164</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>1630</Deaths>
+    <Population>41284839</Population>
+    <Rate>3.9</Rate>
+  </row>
+  <row>
+    <FIELD1>165</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>65</Deaths>
+    <Population>7932606</Population>
+    <Rate>0.8</Rate>
+  </row>
+  <row>
+    <FIELD1>166</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>52</Deaths>
+    <Population>8863203</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>167</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>16</Deaths>
+    <Population>3668172</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>168</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>10</Deaths>
+    <Population>1376239</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>169</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>436</Deaths>
+    <Population>25113094</Population>
+    <Rate>1.7</Rate>
+  </row>
+  <row>
+    <FIELD1>170</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>417</Deaths>
+    <Population>19579439</Population>
+    <Rate>2.1</Rate>
+  </row>
+  <row>
+    <FIELD1>171</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>11</Deaths>
+    <Population>2310506</Population>
+    <Rate>0.5</Rate>
+  </row>
+  <row>
+    <FIELD1>172</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>5</Deaths>
+    <Population>1897119</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>173</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>992150</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>174</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>333879</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>175</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>176</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>177</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>178</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>179</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>180</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>181</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>18162</Deaths>
+    <Population>155631868</Population>
+    <Rate>11.7</Rate>
+  </row>
+  <row>
+    <FIELD1>182</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>15852</Deaths>
+    <Population>97207346</Population>
+    <Rate>16.3</Rate>
+  </row>
+  <row>
+    <FIELD1>183</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>989</Deaths>
+    <Population>18533996</Population>
+    <Rate>5.3</Rate>
+  </row>
+  <row>
+    <FIELD1>184</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>941</Deaths>
+    <Population>27378155</Population>
+    <Rate>3.4</Rate>
+  </row>
+  <row>
+    <FIELD1>185</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>215</Deaths>
+    <Population>7726442</Population>
+    <Rate>2.8</Rate>
+  </row>
+  <row>
+    <FIELD1>186</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>164</Deaths>
+    <Population>4785929</Population>
+    <Rate>3.4</Rate>
+  </row>
+  <row>
+    <FIELD1>187</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>114</Deaths>
+    <Population>31249189</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>188</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>98</Deaths>
+    <Population>16182922</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>189</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>6</Deaths>
+    <Population>4228176</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>190</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>9</Deaths>
+    <Population>7664425</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>191</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>1431715</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>192</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1741952</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>193</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>4399</Deaths>
+    <Population>44017869</Population>
+    <Rate>10</Rate>
+  </row>
+  <row>
+    <FIELD1>194</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>3339</Deaths>
+    <Population>24831032</Population>
+    <Rate>13.4</Rate>
+  </row>
+  <row>
+    <FIELD1>195</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>466</Deaths>
+    <Population>5869943</Population>
+    <Rate>7.9</Rate>
+  </row>
+  <row>
+    <FIELD1>196</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>424</Deaths>
+    <Population>9379683</Population>
+    <Rate>4.5</Rate>
+  </row>
+  <row>
+    <FIELD1>197</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>92</Deaths>
+    <Population>2415040</Population>
+    <Rate>3.8</Rate>
+  </row>
+  <row>
+    <FIELD1>198</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>78</Deaths>
+    <Population>1522171</Population>
+    <Rate>5.1</Rate>
+  </row>
+  <row>
+    <FIELD1>199</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>8991</Deaths>
+    <Population>60810870</Population>
+    <Rate>14.8</Rate>
+  </row>
+  <row>
+    <FIELD1>200</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>8005</Deaths>
+    <Population>40585343</Population>
+    <Rate>19.7</Rate>
+  </row>
+  <row>
+    <FIELD1>201</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>411</Deaths>
+    <Population>6915685</Population>
+    <Rate>5.9</Rate>
+  </row>
+  <row>
+    <FIELD1>202</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>405</Deaths>
+    <Population>8914219</Population>
+    <Rate>4.5</Rate>
+  </row>
+  <row>
+    <FIELD1>203</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>99</Deaths>
+    <Population>3129535</Population>
+    <Rate>3.2</Rate>
+  </row>
+  <row>
+    <FIELD1>204</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>71</Deaths>
+    <Population>1266087</Population>
+    <Rate>5.6</Rate>
+  </row>
+  <row>
+    <FIELD1>205</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>4656</Deaths>
+    <Population>19553940</Population>
+    <Rate>23.8</Rate>
+  </row>
+  <row>
+    <FIELD1>206</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>4409</Deaths>
+    <Population>15608050</Population>
+    <Rate>28.2</Rate>
+  </row>
+  <row>
+    <FIELD1>207</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>106</Deaths>
+    <Population>1520192</Population>
+    <Rate>7</Rate>
+  </row>
+  <row>
+    <FIELD1>208</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>104</Deaths>
+    <Population>1419828</Population>
+    <Rate>7.3</Rate>
+  </row>
+  <row>
+    <FIELD1>209</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>22</Deaths>
+    <Population>750151</Population>
+    <Rate>2.9</Rate>
+  </row>
+  <row>
+    <FIELD1>210</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>14</Deaths>
+    <Population>255719</Population>
+    <Rate>5.5</Rate>
+  </row>
+  <row>
+    <FIELD1>211</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>2</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>212</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>1</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>213</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>214</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>215</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>216</FIELD1>
+    <Intent>Suicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>217</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>11726</Deaths>
+    <Population>316299978</Population>
+    <Rate>3.7</Rate>
+  </row>
+  <row>
+    <FIELD1>218</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>3049</Deaths>
+    <Population>197369634</Population>
+    <Rate>1.5</Rate>
+  </row>
+  <row>
+    <FIELD1>219</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>6503</Deaths>
+    <Population>38896382</Population>
+    <Rate>16.7</Rate>
+  </row>
+  <row>
+    <FIELD1>220</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1878</Deaths>
+    <Population>54049078</Population>
+    <Rate>3.5</Rate>
+  </row>
+  <row>
+    <FIELD1>221</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>186</Deaths>
+    <Population>16315561</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>222</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>109</Deaths>
+    <Population>9669323</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>223</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>221</Deaths>
+    <Population>61085868</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>224</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>88</Deaths>
+    <Population>31538832</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>225</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>82</Deaths>
+    <Population>8323603</Population>
+    <Rate>1</Rate>
+  </row>
+  <row>
+    <FIELD1>226</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>45</Deaths>
+    <Population>14994449</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>227</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>4</Deaths>
+    <Population>2825155</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>228</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>3</Deaths>
+    <Population>3403829</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>229</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>7335</Deaths>
+    <Population>86611149</Population>
+    <Rate>8.5</Rate>
+  </row>
+  <row>
+    <FIELD1>230</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>1180</Deaths>
+    <Population>48773131</Population>
+    <Rate>2.4</Rate>
+  </row>
+  <row>
+    <FIELD1>231</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>4701</Deaths>
+    <Population>11893789</Population>
+    <Rate>39.5</Rate>
+  </row>
+  <row>
+    <FIELD1>232</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1296</Deaths>
+    <Population>17960261</Population>
+    <Rate>7.2</Rate>
+  </row>
+  <row>
+    <FIELD1>233</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>92</Deaths>
+    <Population>4950398</Population>
+    <Rate>1.9</Rate>
+  </row>
+  <row>
+    <FIELD1>234</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>66</Deaths>
+    <Population>3033571</Population>
+    <Rate>2.2</Rate>
+  </row>
+  <row>
+    <FIELD1>235</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>3792</Deaths>
+    <Population>123935928</Population>
+    <Rate>3.1</Rate>
+  </row>
+  <row>
+    <FIELD1>236</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>1505</Deaths>
+    <Population>81870182</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>237</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>1652</Deaths>
+    <Population>14848291</Population>
+    <Rate>11.1</Rate>
+  </row>
+  <row>
+    <FIELD1>238</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>514</Deaths>
+    <Population>17777422</Population>
+    <Rate>2.9</Rate>
+  </row>
+  <row>
+    <FIELD1>239</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>84</Deaths>
+    <Population>6797707</Population>
+    <Rate>1.2</Rate>
+  </row>
+  <row>
+    <FIELD1>240</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>37</Deaths>
+    <Population>2642326</Population>
+    <Rate>1.4</Rate>
+  </row>
+  <row>
+    <FIELD1>241</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>375</Deaths>
+    <Population>44667034</Population>
+    <Rate>0.8</Rate>
+  </row>
+  <row>
+    <FIELD1>242</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>274</Deaths>
+    <Population>35187489</Population>
+    <Rate>0.8</Rate>
+  </row>
+  <row>
+    <FIELD1>243</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>69</Deaths>
+    <Population>3830699</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>244</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>22</Deaths>
+    <Population>3316947</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>245</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>7</Deaths>
+    <Population>1742301</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>246</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>2</Deaths>
+    <Population>589598</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>247</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>3</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>248</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>2</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>249</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>250</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>251</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>252</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>253</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>1791</Deaths>
+    <Population>160668110</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>254</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>860</Deaths>
+    <Population>100162288</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>255</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>633</Deaths>
+    <Population>20362385</Population>
+    <Rate>3.1</Rate>
+  </row>
+  <row>
+    <FIELD1>256</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>232</Deaths>
+    <Population>26670924</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>257</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>47</Deaths>
+    <Population>8589119</Population>
+    <Rate>0.5</Rate>
+  </row>
+  <row>
+    <FIELD1>258</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>20</Deaths>
+    <Population>4883395</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>259</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>85</Deaths>
+    <Population>29836679</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>260</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>38</Deaths>
+    <Population>15355910</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>261</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>27</Deaths>
+    <Population>4095428</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>262</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>19</Deaths>
+    <Population>7330024</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>263</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>1393440</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>264</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>1661877</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>265</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>815</Deaths>
+    <Population>42593280</Population>
+    <Rate>1.9</Rate>
+  </row>
+  <row>
+    <FIELD1>266</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>267</Deaths>
+    <Population>23942099</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>267</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>389</Deaths>
+    <Population>6023846</Population>
+    <Rate>6.5</Rate>
+  </row>
+  <row>
+    <FIELD1>268</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>131</Deaths>
+    <Population>8580577</Population>
+    <Rate>1.5</Rate>
+  </row>
+  <row>
+    <FIELD1>269</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>16</Deaths>
+    <Population>2535358</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>270</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>13</Deaths>
+    <Population>1511400</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>271</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>733</Deaths>
+    <Population>63125058</Population>
+    <Rate>1.2</Rate>
+  </row>
+  <row>
+    <FIELD1>272</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>426</Deaths>
+    <Population>41284839</Population>
+    <Rate>1</Rate>
+  </row>
+  <row>
+    <FIELD1>273</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>199</Deaths>
+    <Population>7932606</Population>
+    <Rate>2.5</Rate>
+  </row>
+  <row>
+    <FIELD1>274</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>76</Deaths>
+    <Population>8863203</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>275</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>26</Deaths>
+    <Population>3668172</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>276</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>6</Deaths>
+    <Population>1376239</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>277</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>158</Deaths>
+    <Population>25113094</Population>
+    <Rate>0.6</Rate>
+  </row>
+  <row>
+    <FIELD1>278</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>129</Deaths>
+    <Population>19579439</Population>
+    <Rate>0.7</Rate>
+  </row>
+  <row>
+    <FIELD1>279</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>18</Deaths>
+    <Population>2310506</Population>
+    <Rate>0.8</Rate>
+  </row>
+  <row>
+    <FIELD1>280</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>6</Deaths>
+    <Population>1897119</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>281</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>4</Deaths>
+    <Population>992150</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>282</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>333879</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>283</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>284</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>285</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>286</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>287</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>288</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>289</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>9935</Deaths>
+    <Population>155631868</Population>
+    <Rate>6.4</Rate>
+  </row>
+  <row>
+    <FIELD1>290</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>2189</Deaths>
+    <Population>97207346</Population>
+    <Rate>2.3</Rate>
+  </row>
+  <row>
+    <FIELD1>291</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>5871</Deaths>
+    <Population>18533996</Population>
+    <Rate>31.7</Rate>
+  </row>
+  <row>
+    <FIELD1>292</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1646</Deaths>
+    <Population>27378155</Population>
+    <Rate>6</Rate>
+  </row>
+  <row>
+    <FIELD1>293</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>140</Deaths>
+    <Population>7726442</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>294</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>89</Deaths>
+    <Population>4785929</Population>
+    <Rate>1.9</Rate>
+  </row>
+  <row>
+    <FIELD1>295</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>136</Deaths>
+    <Population>31249189</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>296</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>50</Deaths>
+    <Population>16182922</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>297</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>55</Deaths>
+    <Population>4228176</Population>
+    <Rate>1.3</Rate>
+  </row>
+  <row>
+    <FIELD1>298</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>26</Deaths>
+    <Population>7664425</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>299</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>3</Deaths>
+    <Population>1431715</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>300</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>2</Deaths>
+    <Population>1741952</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>301</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>6520</Deaths>
+    <Population>44017869</Population>
+    <Rate>14.8</Rate>
+  </row>
+  <row>
+    <FIELD1>302</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>913</Deaths>
+    <Population>24831032</Population>
+    <Rate>3.7</Rate>
+  </row>
+  <row>
+    <FIELD1>303</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>4312</Deaths>
+    <Population>5869943</Population>
+    <Rate>73.5</Rate>
+  </row>
+  <row>
+    <FIELD1>304</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1166</Deaths>
+    <Population>9379683</Population>
+    <Rate>12.4</Rate>
+  </row>
+  <row>
+    <FIELD1>305</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>76</Deaths>
+    <Population>2415040</Population>
+    <Rate>3.1</Rate>
+  </row>
+  <row>
+    <FIELD1>306</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>54</Deaths>
+    <Population>1522171</Population>
+    <Rate>3.5</Rate>
+  </row>
+  <row>
+    <FIELD1>307</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>3059</Deaths>
+    <Population>60810870</Population>
+    <Rate>5</Rate>
+  </row>
+  <row>
+    <FIELD1>308</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>1079</Deaths>
+    <Population>40585343</Population>
+    <Rate>2.7</Rate>
+  </row>
+  <row>
+    <FIELD1>309</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>1453</Deaths>
+    <Population>6915685</Population>
+    <Rate>21</Rate>
+  </row>
+  <row>
+    <FIELD1>310</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>438</Deaths>
+    <Population>8914219</Population>
+    <Rate>4.9</Rate>
+  </row>
+  <row>
+    <FIELD1>311</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>57</Deaths>
+    <Population>3129535</Population>
+    <Rate>1.8</Rate>
+  </row>
+  <row>
+    <FIELD1>312</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>31</Deaths>
+    <Population>1266087</Population>
+    <Rate>2.4</Rate>
+  </row>
+  <row>
+    <FIELD1>313</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>217</Deaths>
+    <Population>19553940</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>314</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>145</Deaths>
+    <Population>15608050</Population>
+    <Rate>0.9</Rate>
+  </row>
+  <row>
+    <FIELD1>315</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>51</Deaths>
+    <Population>1520192</Population>
+    <Rate>3.4</Rate>
+  </row>
+  <row>
+    <FIELD1>316</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>16</Deaths>
+    <Population>1419828</Population>
+    <Rate>1.1</Rate>
+  </row>
+  <row>
+    <FIELD1>317</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>4</Deaths>
+    <Population>750151</Population>
+    <Rate>0.5</Rate>
+  </row>
+  <row>
+    <FIELD1>318</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>255719</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>319</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>3</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>320</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>2</Deaths>
+    <Population>0</Population>
+    <Rate>Inf</Rate>
+  </row>
+  <row>
+    <FIELD1>321</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>322</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>323</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>324</FIELD1>
+    <Intent>Homicide</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>325</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>546</Deaths>
+    <Population>316299978</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>326</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>377</Deaths>
+    <Population>197369634</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>327</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>109</Deaths>
+    <Population>38896382</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>328</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>48</Deaths>
+    <Population>54049078</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>329</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>4</Deaths>
+    <Population>16315561</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>330</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>7</Deaths>
+    <Population>9669323</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>331</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>59</Deaths>
+    <Population>61085868</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>332</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>33</Deaths>
+    <Population>31538832</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>333</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>19</Deaths>
+    <Population>8323603</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>334</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>6</Deaths>
+    <Population>14994449</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>335</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>2825155</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>336</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>3403829</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>337</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>210</Deaths>
+    <Population>86611149</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>338</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>116</Deaths>
+    <Population>48773131</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>339</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>60</Deaths>
+    <Population>11893789</Population>
+    <Rate>0.5</Rate>
+  </row>
+  <row>
+    <FIELD1>340</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>29</Deaths>
+    <Population>17960261</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>341</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>4950398</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>342</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>3</Deaths>
+    <Population>3033571</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>343</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>206</Deaths>
+    <Population>123935928</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>344</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>165</Deaths>
+    <Population>81870182</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>345</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>24</Deaths>
+    <Population>14848291</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>346</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>12</Deaths>
+    <Population>17777422</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>347</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>6797707</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>348</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>3</Deaths>
+    <Population>2642326</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>349</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>71</Deaths>
+    <Population>44667034</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>350</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>64</Deaths>
+    <Population>35187489</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>351</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>6</Deaths>
+    <Population>3830699</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>352</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>2</Deaths>
+    <Population>3316947</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>353</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>1742301</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>354</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>589598</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>355</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>356</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>357</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>358</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>359</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>360</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>361</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>73</Deaths>
+    <Population>160668110</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>362</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>55</Deaths>
+    <Population>100162288</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>363</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>11</Deaths>
+    <Population>20362385</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>364</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>5</Deaths>
+    <Population>26670924</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>365</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>8589119</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>366</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>4883395</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>367</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>12</Deaths>
+    <Population>29836679</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>368</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>7</Deaths>
+    <Population>15355910</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>369</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>3</Deaths>
+    <Population>4095428</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>370</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>2</Deaths>
+    <Population>7330024</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>371</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>1393440</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>372</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1661877</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>373</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>21</Deaths>
+    <Population>42593280</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>374</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>14</Deaths>
+    <Population>23942099</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>375</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>5</Deaths>
+    <Population>6023846</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>376</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>2</Deaths>
+    <Population>8580577</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>377</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>2535358</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>378</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1511400</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>379</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>33</Deaths>
+    <Population>63125058</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>380</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>28</Deaths>
+    <Population>41284839</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>381</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>3</Deaths>
+    <Population>7932606</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>382</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1</Deaths>
+    <Population>8863203</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>383</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>3668172</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>384</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1376239</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>385</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>7</Deaths>
+    <Population>25113094</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>386</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>6</Deaths>
+    <Population>19579439</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>387</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>2310506</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>388</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>1897119</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>389</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>992150</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>390</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>333879</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>391</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>392</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>393</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>394</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>395</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>396</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>397</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>474</Deaths>
+    <Population>155631868</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>398</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>323</Deaths>
+    <Population>97207346</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>399</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>98</Deaths>
+    <Population>18533996</Population>
+    <Rate>0.5</Rate>
+  </row>
+  <row>
+    <FIELD1>400</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>43</Deaths>
+    <Population>27378155</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>401</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>3</Deaths>
+    <Population>7726442</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>402</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>7</Deaths>
+    <Population>4785929</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>403</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>47</Deaths>
+    <Population>31249189</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>404</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>26</Deaths>
+    <Population>16182922</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>405</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>16</Deaths>
+    <Population>4228176</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>406</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>4</Deaths>
+    <Population>7664425</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>407</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>1431715</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>408</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>1741952</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>409</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>189</Deaths>
+    <Population>44017869</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>410</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>102</Deaths>
+    <Population>24831032</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>411</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>56</Deaths>
+    <Population>5869943</Population>
+    <Rate>1</Rate>
+  </row>
+  <row>
+    <FIELD1>412</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>27</Deaths>
+    <Population>9379683</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>413</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>2415040</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>414</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>3</Deaths>
+    <Population>1522171</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>415</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>173</Deaths>
+    <Population>60810870</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>416</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>137</Deaths>
+    <Population>40585343</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>417</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>21</Deaths>
+    <Population>6915685</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>418</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>10</Deaths>
+    <Population>8914219</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>419</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>3129535</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>420</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>3</Deaths>
+    <Population>1266087</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>421</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>64</Deaths>
+    <Population>19553940</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>422</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>57</Deaths>
+    <Population>15608050</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>423</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>5</Deaths>
+    <Population>1520192</Population>
+    <Rate>0.3</Rate>
+  </row>
+  <row>
+    <FIELD1>424</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>2</Deaths>
+    <Population>1419828</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>425</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>750151</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>426</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>255719</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>427</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>428</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>429</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>430</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>431</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>432</FIELD1>
+    <Intent>Accident</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>433</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>269</Deaths>
+    <Population>316299978</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>434</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>195</Deaths>
+    <Population>197369634</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>435</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>42</Deaths>
+    <Population>38896382</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>436</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>24</Deaths>
+    <Population>54049078</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>437</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>3</Deaths>
+    <Population>16315561</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>438</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>5</Deaths>
+    <Population>9669323</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>439</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>8</Deaths>
+    <Population>61085868</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>440</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>5</Deaths>
+    <Population>31538832</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>441</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>2</Deaths>
+    <Population>8323603</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>442</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>1</Deaths>
+    <Population>14994449</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>443</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>2825155</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>444</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>3403829</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>445</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>116</Deaths>
+    <Population>86611149</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>446</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>70</Deaths>
+    <Population>48773131</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>447</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>25</Deaths>
+    <Population>11893789</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>448</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>17</Deaths>
+    <Population>17960261</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>449</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>4950398</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>450</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>3</Deaths>
+    <Population>3033571</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>451</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>113</Deaths>
+    <Population>123935928</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>452</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>91</Deaths>
+    <Population>81870182</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>453</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>12</Deaths>
+    <Population>14848291</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>454</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>6</Deaths>
+    <Population>17777422</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>455</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>6797707</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>456</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>2</Deaths>
+    <Population>2642326</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>457</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>31</Deaths>
+    <Population>44667034</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>458</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>28</Deaths>
+    <Population>35187489</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>459</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>3</Deaths>
+    <Population>3830699</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>460</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>3316947</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>461</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>1742301</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>462</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>589598</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>463</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>464</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>465</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>466</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>467</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>468</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>None selected</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>469</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>56</Deaths>
+    <Population>160668110</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>470</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>42</Deaths>
+    <Population>100162288</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>471</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>7</Deaths>
+    <Population>20362385</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>472</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>5</Deaths>
+    <Population>26670924</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>473</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>8589119</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>474</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>4883395</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>475</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>2</Deaths>
+    <Population>29836679</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>476</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>1</Deaths>
+    <Population>15355910</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>477</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>1</Deaths>
+    <Population>4095428</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>478</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>7330024</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>479</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>1393440</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>480</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1661877</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>481</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>23</Deaths>
+    <Population>42593280</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>482</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>15</Deaths>
+    <Population>23942099</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>483</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>3</Deaths>
+    <Population>6023846</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>484</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>3</Deaths>
+    <Population>8580577</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>485</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>2535358</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>486</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>1511400</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>487</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>26</Deaths>
+    <Population>63125058</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>488</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>21</Deaths>
+    <Population>41284839</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>489</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>3</Deaths>
+    <Population>7932606</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>490</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>2</Deaths>
+    <Population>8863203</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>491</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>3668172</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>492</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1376239</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>493</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>6</Deaths>
+    <Population>25113094</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>494</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>5</Deaths>
+    <Population>19579439</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>495</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>2310506</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>496</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>1897119</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>497</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>992150</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>498</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>333879</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>499</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>500</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>501</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>502</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>503</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>504</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Female</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>505</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>None selected</Race>
+    <Deaths>213</Deaths>
+    <Population>155631868</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>506</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>White</Race>
+    <Deaths>153</Deaths>
+    <Population>97207346</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>507</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Black</Race>
+    <Deaths>35</Deaths>
+    <Population>18533996</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>508</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Hispanic</Race>
+    <Deaths>19</Deaths>
+    <Population>27378155</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>509</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>3</Deaths>
+    <Population>7726442</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>510</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>None selected</Age>
+    <Race>Other</Race>
+    <Deaths>4</Deaths>
+    <Population>4785929</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>511</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>None selected</Race>
+    <Deaths>6</Deaths>
+    <Population>31249189</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>512</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>White</Race>
+    <Deaths>5</Deaths>
+    <Population>16182922</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>513</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Black</Race>
+    <Deaths>1</Deaths>
+    <Population>4228176</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>514</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>7664425</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>515</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>1431715</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>516</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>Under 15</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>1741952</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>517</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>None selected</Race>
+    <Deaths>94</Deaths>
+    <Population>44017869</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>518</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>White</Race>
+    <Deaths>55</Deaths>
+    <Population>24831032</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>519</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Black</Race>
+    <Deaths>22</Deaths>
+    <Population>5869943</Population>
+    <Rate>0.4</Rate>
+  </row>
+  <row>
+    <FIELD1>520</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Hispanic</Race>
+    <Deaths>14</Deaths>
+    <Population>9379683</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>521</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>1</Deaths>
+    <Population>2415040</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>522</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>15 - 34</Age>
+    <Race>Other</Race>
+    <Deaths>2</Deaths>
+    <Population>1522171</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>523</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>None selected</Race>
+    <Deaths>87</Deaths>
+    <Population>60810870</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>524</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>White</Race>
+    <Deaths>70</Deaths>
+    <Population>40585343</Population>
+    <Rate>0.2</Rate>
+  </row>
+  <row>
+    <FIELD1>525</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Black</Race>
+    <Deaths>9</Deaths>
+    <Population>6915685</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>526</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Hispanic</Race>
+    <Deaths>4</Deaths>
+    <Population>8914219</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>527</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>2</Deaths>
+    <Population>3129535</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>528</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>35 - 64</Age>
+    <Race>Other</Race>
+    <Deaths>1</Deaths>
+    <Population>1266087</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>529</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>None selected</Race>
+    <Deaths>26</Deaths>
+    <Population>19553940</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>530</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>White</Race>
+    <Deaths>23</Deaths>
+    <Population>15608050</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>531</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Black</Race>
+    <Deaths>2</Deaths>
+    <Population>1520192</Population>
+    <Rate>0.1</Rate>
+  </row>
+  <row>
+    <FIELD1>532</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>1419828</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>533</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>750151</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>534</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>65+</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>255719</Population>
+    <Rate>0</Rate>
+  </row>
+  <row>
+    <FIELD1>535</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>None selected</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>536</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>White</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>537</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Black</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>538</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Hispanic</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>539</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Asian/Pacific Islander</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+  <row>
+    <FIELD1>540</FIELD1>
+    <Intent>Unknown</Intent>
+    <Gender>Male</Gender>
+    <Age>5</Age>
+    <Race>Other</Race>
+    <Deaths>0</Deaths>
+    <Population>0</Population>
+    <Rate>NA</Rate>
+  </row>
+</root>
