@@ -1,7 +1,8 @@
 //From Skon
 var datafile="interactive_data.csv";
 var title;
-$(document).ready(function () {
+console.log("Ready!");
+//$(document).ready(function () {
 
 //    $("#clear").click(clearResults);
 
@@ -106,20 +107,18 @@ function showChart(mydata) {
 // From HighCharts demo
 var colors = Highcharts.getOptions().colors,
     categories = [
-        "Chrome",
-        "Firefox",
-        "Internet Explorer",
-        "Safari",
-        "Edge",
-        "Opera",
-        "Other"
+        "None Selected",
+        "Suicide",
+        "Homicide",
+        "Accident",
+        "Unknown"
     ],
     data = [
         {
             "y": 62.74,
             "color": colors[2],
             "drilldown": {
-                "name": "Chrome",
+                "name": "None Selected",
                 "categories": [
                     "Chrome v65.0",
                     "Chrome v64.0",
