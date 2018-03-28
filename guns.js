@@ -1,4 +1,109 @@
-// hello
+//From Skon
+var datafile="interactive_data.csv";
+var title;
+$(document).ready(function () {
+
+//    $("#clear").click(clearResults);
+
+ //    $(".dropdown-menu li a").click(function(){
+// 	console.log("pick!"+$(this).text());
+// 	$(this).parents(".btn-group").find('.selection').text($(this).text());
+// 	title=$(this).text();
+//         var fileName=$(this).attr("data-file");
+// 	console.log(fileName);
+// 	makechart(fileName,title);
+//     });
+// });
+
+function makechart(filename) {
+    var data;
+    $.ajax({
+	type: "GET",
+	url: filename,
+	dataType: "text",
+	success: function(response)
+	{
+	    //console.log(response);
+	    data = $.csv.toArrays(response);
+	    var chartData = prepData(data);
+	    //console.log(chartData);
+	    showChart(chartData);
+	}
+    });
+}
+
+function prepData(data) {
+    var theData = [];
+    $.each(data ,function (index, row) {
+	if (index>0) {
+	    var aRow = []
+	    $.each(row ,function (index, item) {
+		if (index < 2) {
+		    if (index==1) item=+item;;
+		    aRow.push(item);
+		}
+	    });
+	    theData.push(aRow);
+	}
+    });
+    return theData;
+}
+
+//Code from Skon for Highcharts 
+function showChart(mydata) {
+    Highcharts.chart('chartContainer', {
+    chart: {
+        type: 'column'
+    },
+    title: {
+        text: 'Most Popular ' + title
+    },
+    subtitle: {
+        text: 'Source US Cesus Data'
+    },
+    xAxis: {
+        type: 'category',
+        labels: {
+            rotation: -45,
+            style: {
+                fontSize: '13px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'Percent'
+        }
+    },
+    legend: {
+        enabled: false
+    },
+    tooltip: {
+        pointFormat: 'Percent: <b>{point.y:.3f} percent</b>'
+    },
+    series: [{
+        name: 'Population',
+        data: mydata,
+        dataLabels: {
+            enabled: true,
+            rotation: -90,
+            color: '#FFFFFF',
+            align: 'right',
+            format: '{point.y:.3f}', // three decimal
+            y: 10, // 10 pixels down from the top
+            style: {
+                fontSize: '13px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+    }]
+});
+}
+
+
+// From HighCharts demo
 var colors = Highcharts.getOptions().colors,
     categories = [
         "Chrome",
