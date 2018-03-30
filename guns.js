@@ -2,8 +2,8 @@
 var datafile="interactive_data.csv";
 var title;
 console.log("Ready!");
-//$(document).ready(function () {
-
+$(document).ready(function () {
+	AutoRefresh() ;
 //    $("#clear").click(clearResults);
 
  //    $(".dropdown-menu li a").click(function(){
@@ -14,7 +14,7 @@ console.log("Ready!");
 // 	console.log(fileName);
 // 	makechart(fileName,title);
 //     });
-// });
+ });
 
 function makechart(filename) {
     var data;
@@ -60,7 +60,7 @@ function showChart(mydata) {
         text: 'Most Popular ' + title
     },
     subtitle: {
-        text: 'Source US Cesus Data'
+        text: 'Data on Gun Deaths in the United States'
     },
     xAxis: {
         type: 'category',
@@ -165,7 +165,7 @@ var colors = Highcharts.getOptions().colors,
             "y": 10.57,
             "color": colors[1],
             "drilldown": {
-                "name": "Firefox",
+                "name": "Suicide",
                 "categories": [
                     "Firefox v58.0",
                     "Firefox v57.0",
@@ -321,7 +321,7 @@ Highcharts.chart('container', {
         type: 'pie'
     },
     title: {
-        text: 'Browser market share, January, 2018'
+        text: 'Gun Deaths in the United States in 2016'
     },
     subtitle: {
         text: 'Source: <a href="http://statcounter.com" target="_blank">statcounter.com</a>'
@@ -381,3 +381,21 @@ Highcharts.chart('container', {
         }]
     }
 });
+
+var x=0;
+function displaydeaths() {
+	console.log("hello"+x);
+	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png">');
+	x++
+}
+
+
+
+
+var intVar;
+function AutoRefresh() {
+
+    intVar = setInterval(function(){ displaydeaths()}, 2000);
+}
+
+
