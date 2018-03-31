@@ -50,58 +50,7 @@ function prepData(data) {
     return theData;
 }
 
-//Code from Skon for Highcharts 
-function showChart(mydata) {
-    Highcharts.chart('chartContainer', {
-    chart: {
-        type: 'column'
-    },
-    title: {
-        text: 'Most Popular ' + title
-    },
-    subtitle: {
-        text: 'Data on Gun Deaths in the United States'
-    },
-    xAxis: {
-        type: 'category',
-        labels: {
-            rotation: -45,
-            style: {
-                fontSize: '13px',
-                fontFamily: 'Verdana, sans-serif'
-            }
-        }
-    },
-    yAxis: {
-        min: 0,
-        title: {
-            text: 'Percent'
-        }
-    },
-    legend: {
-        enabled: false
-    },
-    tooltip: {
-        pointFormat: 'Percent: <b>{point.y:.3f} percent</b>'
-    },
-    series: [{
-        name: 'Population',
-        data: mydata,
-        dataLabels: {
-            enabled: true,
-            rotation: -90,
-            color: '#FFFFFF',
-            align: 'right',
-            format: '{point.y:.3f}', // three decimal
-            y: 10, // 10 pixels down from the top
-            style: {
-                fontSize: '13px',
-                fontFamily: 'Verdana, sans-serif'
-            }
-        }
-    }]
-});
-}
+
 
 
 // From HighCharts demo
@@ -184,7 +133,7 @@ var colors = Highcharts.getOptions().colors,
         },
         {
             "y": 0.40,
-            "color": colors[5],
+            "color": colors[4],
             "drilldown": {
                 "name": "Unknown",
                 "categories": [
@@ -257,7 +206,7 @@ Highcharts.chart('container', {
         valueSuffix: '%'
     },
     series: [{
-        name: 'Browsers',
+        name: 'Intent',
         data: browserData,
         size: '60%',
         dataLabels: {
@@ -268,7 +217,7 @@ Highcharts.chart('container', {
             distance: -30
         }
     }, {
-        name: 'Versions',
+        name: 'Gender',
         data: versionsData,
         size: '80%',
         innerSize: '60%',
