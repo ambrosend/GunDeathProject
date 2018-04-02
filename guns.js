@@ -250,7 +250,7 @@ Highcharts.chart('container', {
 var x=0;
 function displaydeaths() {
 	console.log("hello"+x);
-	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png">');
+	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" height="50" width=30">');
 	x++
 }
 
@@ -260,7 +260,7 @@ function displaydeaths() {
 var intVar;
 function AutoRefresh() {
 
-    intVar = setInterval(function(){ displaydeaths()}, 2000);
+    intVar = setInterval(function(){ displaydeaths()}, 10000);
 }
 
 /*
