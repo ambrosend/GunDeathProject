@@ -263,4 +263,83 @@ function AutoRefresh() {
     intVar = setInterval(function(){ displaydeaths()}, 2000);
 }
 
+/*
+Papa.parse("https://raw.githubusercontent.com/fivethirtyeight/guns-data/master/full_data.csv", {
+	download: true,
+	step: function(row) {
+		console.log("Row: ", row.data);
+	},
+	complete: function() {
+		console.log("All done!");
+	}
+});*/
+var victimsArray = [];
+
+function getAsText(file) {
+	let reader = new FileReader();
+	
+	reader.readAsText(file);
+	
+	reader.onload = loadHandler;
+	reader.onerror = errorhandler;
+}
+
+function loadHandler(event) {
+	let csv = event.target.result;
+	processData(csv);
+}
+
+function errorHandler(event) {
+	if(event.target.error.name == "NotReadableError") {
+		alert('Cannot read file!');
+	}
+}
+
+function processData(csv) {
+	let allTextLines = csv.split(/\r\n |\n/);
+	
+	for (let i = 0; i < allTextLines.length; i++) {
+		let row = allTextLines[i].split(';');
+		
+		let col = [];
+		
+		for (let j = 0; j < row.length; j++) {
+			col.push(row[j]);
+		}
+	
+		victimsArray.push(col);
+	}
+}
+
+function displayWinner() {
+	$('#victims').html(currentWinner);
+	console.log("New Result.");
+}
+
+function randomizeWinner() {
+	//stuff about file upload not working
+	let min = 0;
+	let max = victimsArray.length;
+	let winnerIndex = Math.floor(Math.random() * (max - min + 1)) + min;
+	
+	currentWinner = victimsArray[winnerIndex];
+	displayWinner();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
