@@ -247,20 +247,31 @@ Highcharts.chart('container', {
     }
 });
 
+
 var x=0;
 function displaydeaths() {
 	console.log("hello"+x);
-	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" height="50" width=30">');
+	$('#people').append('<img rec="'+x+'" src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" hspace="20" Vspace="20" height="50" width=30">');
 	x++
+	var e = document.getElementById('people');
+	
+e.onmouseover = function() {
+  document.getElementById('popup').style.display = 'block';
+  var n=document.getElementById('popup').img.rec.value();
+  console.log("n:"+n);
+  System.out.println("n:"+n);
 }
-
+e.onmouseout = function() {
+  document.getElementById('popup').style.display = 'none';
+}
+}
 
 
 
 var intVar;
 function AutoRefresh() {
 
-    intVar = setInterval(function(){ displaydeaths()}, 10000);
+    intVar = setInterval(function(){ displaydeaths()}, 5000);
 }
 
 
