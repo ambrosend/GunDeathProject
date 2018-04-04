@@ -2,7 +2,9 @@
 # 
 
 # Put your user name below:
+
 USER= shurbertj
+
 
 CC= g++
  
@@ -25,8 +27,9 @@ PutHTML:
 
 	cp interactive_data.csv /var/www/html/class/softdev/$(USER)/GunDeathProject/
 
+
 	echo "Current contents of your HTML directory: "
 	ls -l /var/www/html/class/softdev/$(USER)/GunDeathProject/
-	
+
 clean:
 	rm -f *.o  GunDeathProject

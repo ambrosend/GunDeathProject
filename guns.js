@@ -2,10 +2,12 @@
 var datafile="interactive_data.csv";
 var title;
 console.log("Ready!");
+
 $(document).ready(function () {
 	AutoRefresh() ;
 	//makechart();
  });
+
 
 // function makechart() {
 //     var data;
@@ -250,9 +252,19 @@ Highcharts.chart('container1', {
 
 var num=0;
 function displaydeaths() {
+<<<<<<< HEAD
 	console.log("hello"+num);
 	$('#people').append('<img rec="'+num+'" src="https://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" hspace="20" Vspace="20" height="50" width=30">');
 	num++;
+=======
+	console.log("hello"+x);
+<<<<<<< HEAD
+	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png">');
+=======
+	$('#people').append('<img rec="'+x+'" src="https://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" hspace="20" Vspace="10" height="50" width=30">');
+>>>>>>> febb8277ca31ab6494db623e510e8786f4dfd0dc
+	x++
+>>>>>>> f16e11139aea590c048924d0c40d2f1f0983c3de
 	var e = document.getElementById('people');
 	
 e.onmouseover = function() {
@@ -271,7 +283,117 @@ e.onmouseout = function() {
 var intVar;
 function AutoRefresh() {
 
+<<<<<<< HEAD
     intVar = setInterval(function(){ displaydeaths()}, 6000);
+=======
+<<<<<<< HEAD
+    intVar = setInterval(function(){ displaydeaths()}, 2000);
 }
+
+/*
+Papa.parse("https://raw.githubusercontent.com/fivethirtyeight/guns-data/master/full_data.csv", {
+	download: true,
+	step: function(row) {
+		console.log("Row: ", row.data);
+	},
+	complete: function() {
+		console.log("All done!");
+	}
+});*/
+
+var csv="fulldata.csv";
+if(csv){
+	console.log("Working");
+	console.log(csv);
+}
+var victimsArray = [];
+let currentWinner;
+
+function getAsText(file) {
+	let reader = new FileReader();
+	
+	reader.readAsText(file);
+	
+	console.log("here");
+	reader.onload = loadHandler;
+	reader.onerror = errorhandler;
+}
+
+function loadHandler(event) {
+	let csv = event.target.result;
+	processData(csv);
+}
+
+function errorHandler(event) {
+	if(event.target.error.name == "NotReadableError") {
+		alert('Cannot read file!');
+	}
+}
+
+function processData(csv) {
+	let allTextLines = csv.split(/\r\n |\n/);
+	console.log("Reading file");
+	
+	for (let i = 0; i < allTextLines.length; i++) {
+		let row = allTextLines[i].split(',');
+		
+		let col = [];
+		
+		for (let j = 0; j < row.length; j++) {
+			col.push(row[j]);
+		}
+	
+		victimsArray.push(col);
+	}
+	console.log(victimsArray[0]);
+}
+
+function displayWinner() {
+	$('#victims').append(currentWinner);
+}
+
+function randomizeWinner() {
+	//stuff about file upload not working
+	let min = 0;
+	let max = victimsArray.length;
+	let winnerIndex = Math.floor(Math.random() * (max - min + 1)) + min;
+	
+	currentWinner = victimsArray[winnerIndex];
+	console.log("length: ");
+	console.log(victimsArray.length);
+	displayWinner();
+=======
+    intVar = setInterval(function(){ displaydeaths()}, 5000);
+>>>>>>> febb8277ca31ab6494db623e510e8786f4dfd0dc
+>>>>>>> f16e11139aea590c048924d0c40d2f1f0983c3de
+}
+
+
+$(document).ready(function () {
+	AutoRefresh() ; 
+	$.ajax({
+		url: "fulldata.csv",
+		dataType:"text",
+		success: function(data){
+			processData(data);
+			randomizeWinner();
+		}
+	})
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
