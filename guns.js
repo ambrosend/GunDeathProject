@@ -612,7 +612,7 @@ Highcharts.chart('container3', {
 var x=0;
 function displaydeaths() {
 	console.log("hello"+x);
-	$('#people').append('<img rec="'+x+'" src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" hspace="20" Vspace="20" height="50" width=30">');
+	$('#people').append('<img rec="'+x+'" src="https://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" hspace="20" Vspace="10" height="50" width=30">');
 	x++
 	var e = document.getElementById('people');
 	
