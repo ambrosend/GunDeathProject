@@ -1,46 +1,46 @@
 //From Skon
 var datafile="interactive_data.csv";
 var title;
-console.log("Ready!");
+//console.log("Ready!");
 $(document).ready(function () {
-	AutoRefresh() ;
-	//makechart();
+	//AutoRefresh() ;
+	makechart();
  });
 
-// function makechart() {
-//     var data;
-//     $.ajax({
-// 	type: "GET",
-// 	url: datafile,
-// 	dataType: "text",
-// 	success: function(response)
-// 	{
-// 		//console.log(response+$.csv);
-// 	    var data = $.csv.toArrays(response);
-// 	    //console.log(JSON.stringify(data));
-// 	    
-// 	    //var chartData = prepData(data);
-// 	    //showChart(chartData);
-// 	}
-//     });
-// }
-// 
-// function prepData(data) {
-//     var theData = [];
-//     $.each(data ,function (index, row) {
-// 	if (index>0) {
-// 	    var aRow = []
-// 	    $.each(row ,function (index, item) {
-// 		if (index < 2) {
-// 		    if (index==1) item=+item;;
-// 		    aRow.push(item);
-// 		}
-// 	    });
-// 	    theData.push(aRow);
-// 	}
-//     });
-//     return theData;
-// }
+function makechart() {
+    var data;
+    $.ajax({
+	type: "GET",
+	url: datafile,
+	dataType: "text",
+	success: function(response)
+	{
+		//console.log(response+$.csv);
+	    var data = $.csv.toArrays(response);
+	    //console.log(JSON.stringify(data));
+	    
+	    //var chartData = prepData(data);
+	    //showChart(chartData);
+	}
+    });
+}
+
+function prepData(data) {
+    var theData = [];
+    $.each(data ,function (index, row) {
+	if (index>0) {
+	    var aRow = []
+	    $.each(row ,function (index, item) {
+		if (index < 2) {
+		    if (index==1) item=+item;;
+		    aRow.push(item);
+		}
+	    });
+	    theData.push(aRow);
+	}
+    });
+    return theData;
+}
 
 
 // From HighCharts demo for donut visualizations
@@ -59,14 +59,20 @@ var colors = Highcharts.getOptions().colors,
             "drilldown": {
                 "name": "None Selected",
                 "categories": [
-                    "Unknown1",
-                    "Male",
-                    "Female"
+                    "None Selected",
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian/Pacific Islander",
+                    "Other"
                 ],
                 "data": [
                     25.00,
-                    21.42,
-                    3.58
+                    16.43,
+                    5.78,
+                    2.24,
+                    0.33,
+                    0.22  
                 ]
             }
         },
@@ -76,14 +82,20 @@ var colors = Highcharts.getOptions().colors,
             "drilldown": {
                 "name": "Suicide",
                 "categories": [
-                    "Unknown",
-                    "Male",
-                    "Female"
+                    "None Selected",
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian/Pacific Islander",
+                    "Other"
                 ],
                 "data": [
                     15.67,
-                    13.52,
-                    2.15
+                    13.73,
+                    0.83,
+                    0.79,
+                    0.18,
+                    0.14
                 ]
             }
         },
@@ -93,14 +105,20 @@ var colors = Highcharts.getOptions().colors,
             "drilldown": {
                 "name": "Homicide",
                 "categories": [
-                    "Unknown",
-                    "Male",
-                    "Female"
+                    "None Selected",
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian/Pacific Islander",
+                    "Other"
                 ],
                 "data": [
-                    8.72,
-                    7.39,
-                    1.34
+                    8.73,
+                	2.26,
+                    4.84,
+                    1.40,
+                    0.14,
+                    0.08
                 ]
             }
         },
@@ -110,14 +128,20 @@ var colors = Highcharts.getOptions().colors,
             "drilldown": {
                 "name": "Accident",
                 "categories": [
-                    "Unknown",
-                    "Male",
-                    "Female"
+                    "None Selected",
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian/Pacific Islander",
+                    "Other"
                 ],
                 "data": [
                     0.41,
-                    0.35,
-                    0.05
+                    0.28,
+                    0.08,
+                    0.04,
+                    0.00,
+                    0.00
                 ]
             }
         },
@@ -127,14 +151,20 @@ var colors = Highcharts.getOptions().colors,
             "drilldown": {
                 "name": "Unknown",
                 "categories": [
-                    "Unknown",
-                    "Male",
-                    "Female"
+                    "None Selected",
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian/Pacific Islander",
+                    "Other"
                 ],
                 "data": [
                     0.20,
-                    0.16,
-                    0.04
+                    0.14,
+                    0.04,
+                    0.02,
+                    0.00,
+                    0.00
                 ]
             }
         },
@@ -151,7 +181,6 @@ var colors = Highcharts.getOptions().colors,
     brightness;
     
     processData1(data);
-
 	
 
 function processData1(data) {
@@ -179,14 +208,13 @@ for (i = 0; i < dataLen; i += 1) {
 }
 
 
-
-// Create the chart for donut visualizations
-Highcharts.chart('container1', {
+//Create the chart for donut visualizations
+Highcharts.chart('container2', {
     chart: {
         type: 'pie'
     },
     title: {
-        text: 'Gun Deaths: Intent and Gender'
+        text: 'Gun Deaths: Intent and Race'
     },
     subtitle: {
         text: 'Source: <a href="http://statcounter.com" target="_blank">statcounter.com</a>'
@@ -217,13 +245,13 @@ Highcharts.chart('container1', {
             distance: -30
         }
     }, {
-        name: 'Gender',
+        name: 'Race',
         data: versionsData,
         size: '80%',
         innerSize: '60%',
         dataLabels: {
             formatter: function () {
-                // display only if larger than 1
+                //display only if larger than 1
                 return this.y > 1 ? '<b>' + this.point.name + ':</b> ' +
                     this.y + '%' : null;
             }
@@ -248,30 +276,5 @@ Highcharts.chart('container1', {
 });
 
 
-var num=0;
-function displaydeaths() {
-	console.log("hello"+num);
-	$('#people').append('<img rec="'+num+'" src="https://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" hspace="20" Vspace="20" height="50" width=30">');
-	num++;
-	var e = document.getElementById('people');
-	
-e.onmouseover = function() {
-  document.getElementById('popup').style.display = 'block';
-  var n=document.getElementById('popup').img.rec.value();
-  console.log("n:"+n);
-  System.out.println("n:"+n);
-}
-e.onmouseout = function() {
-  document.getElementById('popup').style.display = 'none';
-}
-}
-
-
-
-var intVar;
-function AutoRefresh() {
-
-    intVar = setInterval(function(){ displaydeaths()}, 6000);
-}
 
 
