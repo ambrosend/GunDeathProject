@@ -1,4 +1,16 @@
-#container {
+#container1 {
+	max-width: 660px;
+	margin: auto;
+	height: 400px;
+	margin: 0 auto;
+}
+#container2 {
+	max-width: 660px;
+	margin: auto;
+	height: 400px;
+	margin: 0 auto;
+}
+#container3 {
 	max-width: 660px;
 	margin: auto;
 	height: 400px;
