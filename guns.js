@@ -315,22 +315,22 @@ var colors = Highcharts.getOptions().colors,
     ],
     browserData = [],
     versionsData = [],
-    // browserData2 = [],
-//     versionsData2 = [],
-//     browserData3 = [],
-//     versionsData3 = [],
+    browserData2 = [],
+    versionsData2 = [],
+    browserData3 = [],
+    versionsData3 = [],
     i,
     j,
     dataLen = data.length,
-//     dataLen2 = data2.length,
-//     dataLen3 = data3.length,
+    dataLen2 = data2.length,
+    dataLen3 = data3.length,
 
     drillDataLen,
     brightness;
     
     processData1(data);
-    // processData2(data2);
-//     processData3(data3);
+    processData2(data2);
+    processData3(data3);
 	
 
 function processData1(data) {
@@ -356,53 +356,53 @@ for (i = 0; i < dataLen; i += 1) {
     }
 }
 }
-// function processData2(data) {
-// // Build the data arrays
-// for (i = 0; i < dataLen2; i += 1) {
-// 
-//     // add browser data
-//     browserData2.push({
-//         name: categories[i],
-//         y: data2[i].y,
-//         color: data2[i].color
-//     });
-// 
-//     // add version data
-//     drillDataLen = data2[i].drilldown.data2.length;
-//     for (j = 0; j < drillDataLen; j += 1) {
-//         brightness = 0.2 - (j / drillDataLen) / 5;
-//         versionsData2.push({
-//             name: data2[i].drilldown.categories[j],
-//             y: data2[i].drilldown.data2[j],
-//             color: Highcharts.Color(data[i].color).brighten(brightness).get()
-//         });
-//     }
-// }
-// }
-// 
-// function processData3(data) {
-// // Build the data arrays
-// for (i = 0; i < dataLen3; i += 1) {
-// 
-//     // add browser data
-//     browserData3.push({
-//         name: categories[i],
-//         y: data3[i].y,
-//         color: data3[i].color
-//     });
-// 
-//     // add version data
-//     drillDataLen = data3[i].drilldown.data3.length;
-//     for (j = 0; j < drillDataLen; j += 1) {
-//         brightness = 0.2 - (j / drillDataLen) / 5;
-//         versionsData3.push({
-//             name: data3[i].drilldown.categories[j],
-//             y: data3[i].drilldown.data[j],
-//             color: Highcharts.Color(data[i].color).brighten(brightness).get()
-//         });
-//     }
-// }
-// }
+function processData2(data) {
+// Build the data arrays
+for (i = 0; i < dataLen2; i += 1) {
+
+    // add browser data
+    browserData2.push({
+        name: categories[i],
+        y: data2[i].y,
+        color: data2[i].color
+    });
+
+    // add version data
+    drillDataLen = data2[i].drilldown.data2.length;
+    for (j = 0; j < drillDataLen; j += 1) {
+        brightness = 0.2 - (j / drillDataLen) / 5;
+        versionsData2.push({
+            name: data2[i].drilldown.categories[j],
+            y: data2[i].drilldown.data2[j],
+            color: Highcharts.Color(data[i].color).brighten(brightness).get()
+        });
+    }
+}
+}
+
+function processData3(data) {
+// Build the data arrays
+for (i = 0; i < dataLen3; i += 1) {
+
+    // add browser data
+    browserData3.push({
+        name: categories[i],
+        y: data3[i].y,
+        color: data3[i].color
+    });
+
+    // add version data
+    drillDataLen = data3[i].drilldown.data3.length;
+    for (j = 0; j < drillDataLen; j += 1) {
+        brightness = 0.2 - (j / drillDataLen) / 5;
+        versionsData3.push({
+            name: data3[i].drilldown.categories[j],
+            y: data3[i].drilldown.data[j],
+            color: Highcharts.Color(data[i].color).brighten(brightness).get()
+        });
+    }
+}
+}
 
 
 
@@ -500,7 +500,7 @@ Highcharts.chart('container2', {
     },
     series: [{
         name: 'Intent',
-        data: browserData,
+        data: browserData2,
         size: '60%',
         dataLabels: {
             formatter: function () {
@@ -511,7 +511,7 @@ Highcharts.chart('container2', {
         }
     }, {
         name: 'Gender',
-        data: versionsData,
+        data: versionsData2,
         size: '80%',
         innerSize: '60%',
         dataLabels: {
@@ -568,7 +568,7 @@ Highcharts.chart('container3', {
     },
     series: [{
         name: 'Intent',
-        data: browserData,
+        data: browserData3,
         size: '60%',
         dataLabels: {
             formatter: function () {
@@ -579,7 +579,7 @@ Highcharts.chart('container3', {
         }
     }, {
         name: 'Gender',
-        data: versionsData,
+        data: versionsData3,
         size: '80%',
         innerSize: '60%',
         dataLabels: {
@@ -609,12 +609,6 @@ Highcharts.chart('container3', {
 });
 
 
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 1dc2608078b49ea40496c5180f1a769ffc98aea7
 var x=0;
 function displaydeaths() {
 	console.log("hello"+x);
