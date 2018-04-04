@@ -2,8 +2,7 @@
 var datafile="interactive_data.csv";
 var title;
 console.log("Ready!");
-$(document).ready(function () {
-	AutoRefresh() ;
+
 //    $("#clear").click(clearResults);
 
  //    $(".dropdown-menu li a").click(function(){
@@ -14,7 +13,7 @@ $(document).ready(function () {
 // 	console.log(fileName);
 // 	makechart(fileName,title);
 //     });
- });
+
 
 function makechart(filename) {
     var data;
@@ -250,7 +249,7 @@ Highcharts.chart('container', {
 var x=0;
 function displaydeaths() {
 	console.log("hello"+x);
-	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png" height="50" width=30">');
+	$('#people').append('<img  src="http://www.clker.com/cliparts/i/9/w/S/E/Q/red-male-toilet-symbol-md.png">');
 	x++
 }
 
@@ -260,7 +259,7 @@ function displaydeaths() {
 var intVar;
 function AutoRefresh() {
 
-    intVar = setInterval(function(){ displaydeaths()}, 10000);
+    intVar = setInterval(function(){ displaydeaths()}, 2000);
 }
 
 /*
@@ -273,13 +272,21 @@ Papa.parse("https://raw.githubusercontent.com/fivethirtyeight/guns-data/master/f
 		console.log("All done!");
 	}
 });*/
+
+var csv="fulldata.csv";
+if(csv){
+	console.log("Working");
+	console.log(csv);
+}
 var victimsArray = [];
+let currentWinner;
 
 function getAsText(file) {
 	let reader = new FileReader();
 	
 	reader.readAsText(file);
 	
+	console.log("here");
 	reader.onload = loadHandler;
 	reader.onerror = errorhandler;
 }
@@ -297,9 +304,10 @@ function errorHandler(event) {
 
 function processData(csv) {
 	let allTextLines = csv.split(/\r\n |\n/);
+	console.log("Reading file");
 	
 	for (let i = 0; i < allTextLines.length; i++) {
-		let row = allTextLines[i].split(';');
+		let row = allTextLines[i].split(',');
 		
 		let col = [];
 		
@@ -309,11 +317,11 @@ function processData(csv) {
 	
 		victimsArray.push(col);
 	}
+	console.log(victimsArray[0]);
 }
 
 function displayWinner() {
-	$('#victims').html(currentWinner);
-	console.log("New Result.");
+	$('#victims').append(currentWinner);
 }
 
 function randomizeWinner() {
@@ -323,10 +331,24 @@ function randomizeWinner() {
 	let winnerIndex = Math.floor(Math.random() * (max - min + 1)) + min;
 	
 	currentWinner = victimsArray[winnerIndex];
+	console.log("length: ");
+	console.log(victimsArray.length);
 	displayWinner();
 }
 
 
+$(document).ready(function () {
+	AutoRefresh() ; 
+	$.ajax({
+		url: "fulldata.csv",
+		dataType:"text",
+		success: function(data){
+			processData(data);
+			randomizeWinner();
+		}
+	})
+
+});
 
 
 

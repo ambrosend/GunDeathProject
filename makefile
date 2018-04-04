@@ -21,6 +21,7 @@ PutHTML:
 	cp gun.css /var/www/html/class/softdev/$(USER)/GunDeathProject/
 	cp guns.js /var/www/html/class/softdev/$(USER)/GunDeathProject/
 	cp CSVparser/papaparse.min.js /var/www/html/class/softdev/$(USER)/GunDeathProject/
+	cp fulldata.csv /var/www/html/class/softdev/$(USER)/GunDeathProject/
 
 	echo "Current contents of your HTML directory: "
 	ls -l /var/www/html/class/softdev/$(USER)/GunDeathProject/
